@@ -1,7 +1,7 @@
 # Email-Service
 This platform offers secure login and registration for a protected user experience. Explore seamless and secure email sending with all the features you need. The user-friendly interface ensures a smooth and trustworthy environment for your communication needs.
 
-## Tech Stack
+# Tech Stack
 ### Frontend:
 - **Framework:** React
 - **Styling:** Tailwind CSS 
@@ -15,7 +15,7 @@ This platform offers secure login and registration for a protected user experien
 - **Library:** NodeMailer
 - **SMTP Provider:** Gmail
 
-## Installation
+# Installation
 
 ### To quickly set up and run the project locally, use the following commands:
 
@@ -35,7 +35,7 @@ This platform offers secure login and registration for a protected user experien
 - **Start the backend on your local host:** `yarn dev`
 
 
-## Screenshots and Demos
+# Screenshots and Demo
 
 ### 1. Landing Page
 ![image](https://github.com/Varchasva45/email-service/assets/97362029/e7141ee5-99e0-424e-a3cf-314a0616011d)
